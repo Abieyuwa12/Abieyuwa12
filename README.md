@@ -5,6 +5,7 @@
 -  Predictive Analytics: Fascinated by the power of data to forecast trends and support strategic business decisions.
 
 🌱 I’m currently learning SQL and enhancing my skills with data visualisation tools like Power BI, Tableau, and Excel to better communicate data insights.
+- Engaged in ongoing professional development in Agile methodologies and Scrum practices, with a focus on continuous learning and practical application.
     
 💞️ I’m looking to collaborate on AI & Data Science Projects: Eager to work on projects that apply machine learning and AI to solve real-world problems.
 -  Open Source Initiatives: Open to contributing to open-source projects, particularly those focused on data analytics and AI.
